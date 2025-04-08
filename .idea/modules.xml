@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5-AlDoileaTipBuilder/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5-AlDoileaTipBuilder/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5-FactoryMethod/Seminar5-FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5-FactoryMethod/Seminar5-FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5-PrimulTipBuilder/Seminar5-PrimulTipBuilder.iml" filepath="$PROJECT_DIR$/Seminar5-PrimulTipBuilder/Seminar5-PrimulTipBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6-AdapterDeClase/Seminar6-AdapterDeClase.iml" filepath="$PROJECT_DIR$/Seminar6-AdapterDeClase/Seminar6-AdapterDeClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6-AdapterDeObiecte/Seminar6-AdapterDeObiecte.iml" filepath="$PROJECT_DIR$/Seminar6-AdapterDeObiecte/Seminar6-AdapterDeObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
     </modules>
   </component>

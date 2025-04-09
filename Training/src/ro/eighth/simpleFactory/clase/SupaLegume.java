@@ -1,0 +1,13 @@
+package ro.eighth.simpleFactory.clase;
+
+public class SupaLegume extends Supe{
+
+    public SupaLegume(float pret, float cantitate, float calorii) {
+        super(pret, cantitate, calorii);
+    }
+
+    @Override
+    public void afiseazaDescriere() {
+        System.out.println("Supa are pretul"+getPret()+" , gramaj"+getCantitate()+" si un numar de calorii"+getCalorii());
+    }
+}

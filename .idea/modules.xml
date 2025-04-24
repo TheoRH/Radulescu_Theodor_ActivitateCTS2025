@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5-PrimulTipBuilder/Seminar5-PrimulTipBuilder.iml" filepath="$PROJECT_DIR$/Seminar5-PrimulTipBuilder/Seminar5-PrimulTipBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6-AdapterDeClase/Seminar6-AdapterDeClase.iml" filepath="$PROJECT_DIR$/Seminar6-AdapterDeClase/Seminar6-AdapterDeClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6-AdapterDeObiecte/Seminar6-AdapterDeObiecte.iml" filepath="$PROJECT_DIR$/Seminar6-AdapterDeObiecte/Seminar6-AdapterDeObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7-Decorator/Seminar7-Decorator.iml" filepath="$PROJECT_DIR$/Seminar7-Decorator/Seminar7-Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7-Facade/Seminar7-Facade.iml" filepath="$PROJECT_DIR$/Seminar7-Facade/Seminar7-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7-Proxy/Seminar7-Proxy.iml" filepath="$PROJECT_DIR$/Seminar7-Proxy/Seminar7-Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training_FirstTest/Training_FirstTest.iml" filepath="$PROJECT_DIR$/Training_FirstTest/Training_FirstTest.iml" />
     </modules>

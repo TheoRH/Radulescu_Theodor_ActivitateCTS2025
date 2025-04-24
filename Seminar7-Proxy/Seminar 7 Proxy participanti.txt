@@ -1,0 +1,9 @@
+Seminar 7 Proxy
+
+IRezervare (interfata)
+
+	|
+	|________________________
+	|			|
+	|			|
+RezervareProxy__________________Rezervare

@@ -1,0 +1,20 @@
+Seminar 7 Decorator participant
+
+Nota interfata (ProdusAbstract)		
++printare()
+	|
+	|_________________________________________________
+	|						|
+NotaDePlata clasa Concreta			NotaDecorata clasa Abstracta
++printare()					-Nota: nota
+						+printare()
+						+printeazaFelicitare() (e metoda privata)
+							|
+							|
+							|
+				_____________________________________________
+				|
+				|
+				|
+			NotaSfarsitDeAn
+			+printeazaFelicitare()

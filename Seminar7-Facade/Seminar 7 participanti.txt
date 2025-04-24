@@ -1,0 +1,19 @@
+Seminar 7 participanti Facade (restaurant)  atentie Piccolo si Ospatar vor folosi clasa Masa
+
+Picolo (debaraseaza) Ospatar(pune servetele) Masa
++debaraseaza(masa)    +esteAranjata (masa)    -ocupat:boolean
+	|			|	      -numarMasa:int
+	|			|
+	|			|		|
+	|			|		|
+	|			|		|
+	|			|		|
+	|______	FACADE___________________________
+		+verificaAsezareMasa(masa)
+
+		|
+		|	
+		|
+		|
+		RECEPTIONISTUL (client)
+		+

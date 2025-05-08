@@ -1,0 +1,17 @@
+Seminar 9 Composite
+
+
+			STRUCTURI -interfata
+			+adaugaStructura(Structura):void
+			+stergeStrucutra(Structura):void
+			+descriere():void
+			+getStructura(int):Structura
+				|
+				|
+				|
+	|__________________________________________________________|
+	|							   |
+Sectii								Departamente
+-nume String							-nume:String
++metode								-List<Structura>
+								+metode

@@ -1,0 +1,17 @@
+Seminar 9 - flyweight
+
+			PacientAbstract - interfata
+			+descrierePacient(Spitalizare):void
+				|
+				|
+				|
+				|
+		________________________________________
+		|					|				
+		|					|				
+		|					|				
+		Pacient					FabricaPacient				Spitalizare
+		-nume String				-colectieHashMap<nrTelefon>		-nrSalon:int
+		-					-PacientAbstract			-nrSpitalizare:int
+		-					+getPacient(String nrtelefon)		-nrPat:int
+		+descrierePacient(Spitalizare)

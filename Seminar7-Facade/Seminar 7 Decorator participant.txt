@@ -12,9 +12,9 @@ NotaDePlata clasa Concreta			NotaDecorata clasa Abstracta
 							|
 							|
 							|
-				_____________________________________________
-				|
-				|
-				|
-			NotaSfarsitDeAn
-			+printeazaFelicitare()
+				_________________________________________________________________________
+				|					|				|
+				|					|				|
+				|					|				|
+			NotaSfarsitDeAn				NotaCraciun			NotaPaste
+			+printeazaFelicitare()			+printeazaFelicitare()  +printeazaFelicitare()

@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/Training_Second/AdapterClase/AdapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Training_Second/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/AdapterSTB/AdapterSTB.iml" filepath="$PROJECT_DIR$/Training_Second/AdapterSTB/AdapterSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Training_Second/ChainOfResponsability/ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Composite/Composite.iml" filepath="$PROJECT_DIR$/Training_Second/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Training_Second/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Facade/Facade.iml" filepath="$PROJECT_DIR$/Training_Second/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Training_Second/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Observer/Observer.iml" filepath="$PROJECT_DIR$/Training_Second/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Training_Second/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Radulescu_Theodor_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Radulescu_Theodor_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10-Composite/Seminar10-Composite.iml" filepath="$PROJECT_DIR$/Seminar10-Composite/Seminar10-Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10-Flyweight/Seminar10-Flyweight.iml" filepath="$PROJECT_DIR$/Seminar10-Flyweight/Seminar10-Flyweight.iml" />
@@ -21,8 +31,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar7-Decorator/Seminar7-Decorator.iml" filepath="$PROJECT_DIR$/Seminar7-Decorator/Seminar7-Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7-Facade/Seminar7-Facade.iml" filepath="$PROJECT_DIR$/Seminar7-Facade/Seminar7-Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7-Proxy/Seminar7-Proxy.iml" filepath="$PROJECT_DIR$/Seminar7-Proxy/Seminar7-Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Training_Second/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Template/Template.iml" filepath="$PROJECT_DIR$/Training_Second/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training_FirstTest/Training_FirstTest.iml" filepath="$PROJECT_DIR$/Training_FirstTest/Training_FirstTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training_Second/Training_Second.iml" filepath="$PROJECT_DIR$/Training_Second/Training_Second.iml" />
     </modules>
   </component>
 </project>
